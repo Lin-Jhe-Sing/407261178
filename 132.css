@@ -1,23 +1,16 @@
-red-text {
+.red-text {
     color: red;
   }
 
-  h2 {
-    font-family: Lobster, monospace;
+.bg {
+    background-color: gray;
   }
 
-  p {
+ p {
     font-size: 16px;
-    font-family: monospace;
   }
 
-  .thick-green-border {
-    border-color: green;
-    border-width: 10px;
-    border-style: solid;
-    border-radius: 10px;
-  }
-
-  .smaller-image {
-    width: 100px;
+.img {
+    width: 160px;
+    border-radius: 50%;
   }
