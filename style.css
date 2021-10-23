@@ -1,0 +1,16 @@
+.red-text {
+    color: red;
+  }
+
+.bg {
+    background-color: gray;
+  }
+
+ p {
+    font-size: 16px;
+  }
+
+.img {
+    width: 200px;
+    border-radius: 50%;
+  }
