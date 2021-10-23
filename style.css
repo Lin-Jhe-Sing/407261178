@@ -3,12 +3,13 @@
     font-size: 60px;
   }
 
-.bg {
+.bg { 
     background-color: gray;
   }
 
  p {
     font-size: 16px;
+    color: greenyellow;
   }
 
 .img {
